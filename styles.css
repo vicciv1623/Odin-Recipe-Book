@@ -1,0 +1,79 @@
+.header,
+.food-name{
+    text-align: center;
+    background-color: blueviolet;
+    color:white;
+}
+
+.recipe{
+    font-family: fantasy;
+    color:red;
+    font-size:20px;
+}
+
+.food-image,
+.hacked-tri{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:50%;
+}
+
+h3{
+    font-family: cursive;
+    background-color: rgb(80, 185, 223);
+    color: brown;
+}
+
+p{
+    font-weight:bold;
+    color:rgb(255, 0, 136);
+    font-size: 18px;;
+}
+
+.asterik{
+    font-weight: bolder;
+    color: red;
+    font-family: monospace;
+    font-size:20px;
+}
+
+#thicc{
+    color:blue;
+    font-weight: bolder;
+    font-size: 20px;
+    font-family: cursive;
+}
+
+#amber{
+    color:coral;
+    font-family: fantasy;
+    font-size:18px;
+}
+
+#sugar-sugar{
+    color:rgb(232, 111, 131);
+    font-family: "Brush Script MT";
+    font-size:20px;
+}
+
+#swirl{
+    font-size:30px;
+    font-weight: bold;
+    font-family: "Courier New";
+}
+
+a[target]{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium';
+    font-size:30px;
+    color:rgb(255, 0, 136);
+}
+
+.hacked-message{
+    text-align: center;
+    color:white;
+    font-weight: bolder;
+    font-size: 40px;
+    margin-top:20%;
+}
