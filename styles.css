@@ -9,6 +9,7 @@
     font-family: fantasy;
     color:red;
     font-size:20px;
+    display:inline;
 }
 
 .food-image,
@@ -68,6 +69,9 @@ a[target]{
     font-family: 'Franklin Gothic Medium';
     font-size:30px;
     color:rgb(255, 0, 136);
+    display:inline-block;
+    margin: 50% auto;
+    width:800px;
 }
 
 .hacked-message{
